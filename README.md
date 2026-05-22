@@ -7,7 +7,14 @@ Created an immersive ambient background lighting system that dynamically extends
 - WS2812B RGB LED Strip
 - USB Cable
 - PC/Laptop running Python
-
+  
+# Hardware Setup
+- upload .ino file in the esp32
+- connect led data pin to pin number 2
+- also connect 5v and gnd
+- plug in usb check for port number
+- edit port number in py script and hit RUN
+  
 # Features
 
 - Real-time screen edge color detection
