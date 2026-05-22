@@ -125,5 +125,3 @@ screen = screen.resize((300, 200))
 - Music visualization
 - Smart desk lighting
 - RGB room setups
-
-MIT License
